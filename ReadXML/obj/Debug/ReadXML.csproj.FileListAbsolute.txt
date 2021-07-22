@@ -1,0 +1,7 @@
+C:\Users\vyash3\source\repos\ReadXML\bin\Debug\ReadXML.exe.config
+C:\Users\vyash3\source\repos\ReadXML\bin\Debug\ReadXML.exe
+C:\Users\vyash3\source\repos\ReadXML\bin\Debug\ReadXML.pdb
+C:\Users\vyash3\source\repos\ReadXML\obj\Debug\ReadXML.csprojAssemblyReference.cache
+C:\Users\vyash3\source\repos\ReadXML\obj\Debug\ReadXML.csproj.CoreCompileInputs.cache
+C:\Users\vyash3\source\repos\ReadXML\obj\Debug\ReadXML.exe
+C:\Users\vyash3\source\repos\ReadXML\obj\Debug\ReadXML.pdb
